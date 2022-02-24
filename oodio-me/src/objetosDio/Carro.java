@@ -1,6 +1,6 @@
 package objetosDio;
 
-public class Carro {
+public class Carro extends Veiculo{
 
 	String cor;
 	String modelo;
